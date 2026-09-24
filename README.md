@@ -1,57 +1,72 @@
-# publications-portfolio
-A collection of publications, research, creative writing, and academic projects by Rena Eva Nurisma.
-# 📚 Publications Portfolio
+Hi, I'm Rena Eva Nurisma! 👋
 
-Welcome to my publications portfolio.
+Quality Unit Control | Content Creator | Writer
 
-This repository contains a collection of my academic research,
-creative writing, and published works.
+Welcome to my GitHub profile! ✨
 
-## ✨ Publications
+I'm a Business Administration graduate with an interest in
+quality management, data analysis, digital business,
+content creation, technology, and creative writing.
 
-### 📖 The Chronicles of Cat Souls: Resonansi Takdir
-**Publisher:** Lovrinz Publishing  
-**Published:** May 30, 2026  
-**Genre:** Fantasy Romance  
-**Author:** Rena Eva Nurisma
+I enjoy combining analytical thinking with creativity to
+document projects, explore ideas, and build practical solutions.
 
----
+👩‍💻 About Me
 
-### 📕 BUKU HARIAN SISWA
-**Publisher:** Penerbit Naga Pustaka  
-**Published:** January 19, 2025  
-**Author:** Rena Eva Nurisma
+💼 Quality Unit Control
+🎨 Content Creator
+✍️ Writer
+🎓 Business Administration Graduate
+📊 Interested in Data & Quality Analysis
+💻 Exploring Technology & Digital Projects
+📚 Published Writer & Research Contributor
 
----
+📚 Publications
 
-### 📊 The Effect of Product Quality, Brand Image,
-and Customer Satisfaction on Customer Loyalty
+# The Chronicles of Cat Souls: Resonansi Takdir
+*Lovrinz Publishing — 2026*
 
-**Journal:** Jurnal Ekonomi, Koperasi & Kewirausahaan  
-**Published:** August 28, 2024  
-**Research Area:** Product Quality, Brand Image,
-Customer Satisfaction & Customer Loyalty
+Fantasy romance novel written by Rena Eva Nurisma.
 
----
+# BUKU HARIAN SISWA
+*Penerbit Naga Pustaka — 2025*
 
-### 🤝 Merangkai Kesetaraan Mewujudkan Kampus Merdeka
+Creative writing publication.
+
+# The Effect of Product Quality, Brand Image, and Customer Satisfaction on Customer Loyalty
+
+**Jurnal Ekonomi, Koperasi & Kewirausahaan — 2024**
+
+Research focusing on product quality, brand image,
+customer satisfaction, and customer loyalty.
+
+### Merangkai Kesetaraan Mewujudkan Kampus Merdeka
 ### dari Kekerasan Seksual
 
-**Publisher:** Jejak Pustaka  
-**Published:** January 8, 2024  
-**Author:** Rena Eva Nurisma
+**Jejak Pustaka — 2024**
 
----
+Publication related to equality and a safe campus environment.
 
-## 👩‍💻 About Me
+## 🛠️ Areas of Interest
 
-I'm Rena Eva Nurisma, a Quality Unit Control professional,
-content creator, writer, and business administration graduate
-with interests in quality management, data analysis,
-digital business, technology, and creative writing.
+- Quality Control & Quality Management
+- Data Analysis
+- Business Administration
+- Digital Business
+- Content Creation
+- Technology
+- Creative Writing
+- Research
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
-- LinkedIn
-- YouTube
-- Wattpad
+🔗 **LinkedIn:**  
+https://www.linkedin.com/in/rena-eva-nurisma-131821225/
+
+🎬 **YouTube:**  
+@littlenotesbyrena
+
+📖 **Wattpad:**  
+Rena Eva Nurisma
+
+✨ *Building, learning, creating, and documenting along the way.*
