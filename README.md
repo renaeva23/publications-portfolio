@@ -1,72 +1,55 @@
-Hi, I'm Rena Eva Nurisma! 👋
+# 📚 Publications Portfolio
 
-Quality Unit Control | Content Creator | Writer
+Welcome to my publications portfolio.
 
-Welcome to my GitHub profile! ✨
+This repository contains a collection of my academic research,
+creative writing, and published works.
 
-I'm a Business Administration graduate with an interest in
-quality management, data analysis, digital business,
-content creation, technology, and creative writing.
+## ✨ Publications
 
-I enjoy combining analytical thinking with creativity to
-document projects, explore ideas, and build practical solutions.
+### 📖 The Chronicles of Cat Souls: Resonansi Takdir
+**Publisher:** Lovrinz Publishing  
+**Published:** May 30, 2026  
+**Genre:** Fantasy Romance  
+**Author:** Rena Eva Nurisma
 
-👩‍💻 About Me
+---
 
-💼 Quality Unit Control
-🎨 Content Creator
-✍️ Writer
-🎓 Business Administration Graduate
-📊 Interested in Data & Quality Analysis
-💻 Exploring Technology & Digital Projects
-📚 Published Writer & Research Contributor
+### 📕 BUKU HARIAN SISWA
+**Publisher:** Penerbit Naga Pustaka  
+**Published:** January 19, 2025  
+**Author:** Rena Eva Nurisma
 
-📚 Publications
+---
 
-# The Chronicles of Cat Souls: Resonansi Takdir
-*Lovrinz Publishing — 2026*
+### 📊 The Effect of Product Quality, Brand Image,
+and Customer Satisfaction on Customer Loyalty
 
-Fantasy romance novel written by Rena Eva Nurisma.
+**Journal:** Jurnal Ekonomi, Koperasi & Kewirausahaan  
+**Published:** August 28, 2024  
+**Research Area:** Product Quality, Brand Image,
+Customer Satisfaction & Customer Loyalty
 
-# BUKU HARIAN SISWA
-*Penerbit Naga Pustaka — 2025*
+---
 
-Creative writing publication.
-
-# The Effect of Product Quality, Brand Image, and Customer Satisfaction on Customer Loyalty
-
-**Jurnal Ekonomi, Koperasi & Kewirausahaan — 2024**
-
-Research focusing on product quality, brand image,
-customer satisfaction, and customer loyalty.
-
-### Merangkai Kesetaraan Mewujudkan Kampus Merdeka
+### 🤝 Merangkai Kesetaraan Mewujudkan Kampus Merdeka
 ### dari Kekerasan Seksual
 
-**Jejak Pustaka — 2024**
+**Publisher:** Jejak Pustaka  
+**Published:** January 8, 2024  
+**Author:** Rena Eva Nurisma
 
-Publication related to equality and a safe campus environment.
+---
 
-## 🛠️ Areas of Interest
+## 👩‍💻 About Me
 
-- Quality Control & Quality Management
-- Data Analysis
-- Business Administration
-- Digital Business
-- Content Creation
-- Technology
-- Creative Writing
-- Research
+I'm Rena Eva Nurisma, a Quality Unit Control professional,
+content creator, writer, and business administration graduate
+with interests in quality management, data analysis,
+digital business, technology, and creative writing.
 
-## 🌐 Connect With Me
+## 🔗 Connect With Me
 
-🔗 **LinkedIn:**  
-https://www.linkedin.com/in/rena-eva-nurisma-131821225/
-
-🎬 **YouTube:**  
-@littlenotesbyrena
-
-📖 **Wattpad:**  
-Rena Eva Nurisma
-
-✨ *Building, learning, creating, and documenting along the way.*
+- LinkedIn
+- YouTube
+- Wattpad
